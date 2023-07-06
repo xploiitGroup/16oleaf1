@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Xploiit
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning about hacking (Ethical)
-- 💞️ I’m looking to collaborate on some scripts about hacking into things only Ethically
-- 📫 How to reach me: github.com/Xploiit
+- 👋 Hi, we are @Xploiit
+- 👀 We're interested in Ethical Hacking
+- 🌱 We're currently learning about hacking (Ethical)
+- 💞️ We'relooking to collaborate on some scripts about hacking into things only Ethically
+- 📫 How to reach them: github.com/Xploiit
